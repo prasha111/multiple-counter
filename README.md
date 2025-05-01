@@ -1,12 +1,46 @@
-# React + Vite
+Multiple Counter
+A simple and dynamic React app to manage multiple independent counters. Each counter can be incremented, decremented, or removed, and you can add as many counters as you like.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Demo
+👉 multiple-counter-silk.vercel.app
 
-Currently, two official plugins are available:
+🚀 Features
+✅ Add multiple counters
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+➕ Increment or ➖ decrement individual counters
 
-## Expanding the ESLint configuration
+❌ Remove any counter
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎯 Minimal and responsive UI
+
+⚛️ Built with React
+
+📸 Preview
+(Add a screenshot here if available. Example:)
+
+🛠️ Tech Stack
+React (Create React App)
+
+JavaScript
+
+CSS
+
+📦 Installation
+bash
+Copy
+Edit
+git clone https://github.com/prasha111/multiple-counter.git
+cd multiple-counter
+npm install
+npm start
+🧾 Scripts
+npm start – Launch dev server
+
+npm run build – Build for production
+
+Author 
+Prashant Sharma
+
+
+📄 License
+This project is licensed under the MIT License.
